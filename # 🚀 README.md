@@ -1,5 +1,8 @@
 # 🚀 Business Management Web Application (Laravel + Vue)
 
+## 🌐 Demo online
+https://polite-buttercream-6dca2d.netlify.app
+
 Aplicación web full-stack basada en arquitectura API REST, desarrollada con Laravel (backend) y Vue (frontend).
 
 El sistema permite gestionar entidades empresariales (clientes, productos, solicitudes, etc.) mediante un backend estructurado y un frontend desacoplado que consume los datos dinámicamente.
